@@ -1,0 +1,21 @@
+body {
+  background-color:green;
+  font-family: sans-serif;
+
+}
+
+h1{
+  color: pink;
+  font-family:impact;
+}
+img {
+  height: 400px;
+  width:400px;
+  position: relative;
+}
+button {
+  height: 50px;
+  width: 100px;
+  position:relative;
+  background-color: pink;
+}
